@@ -115,10 +115,10 @@ button {
     }
     
     .modal {
-      margin: auto;
+      margin: right;
       display: inline-block;
       box-sizing: border-box;
-      background:#cde0ec;
+      background:#033d27;
       padding: 15px;
       width: 50%;
       max-width: 700px;
